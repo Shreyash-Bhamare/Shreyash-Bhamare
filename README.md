@@ -7,6 +7,11 @@ I'm a passionate Machine Learning engineer with a strong foundation in deep lear
 With hands-on experience from my internship at Cybage Software and multiple research projects, I'm dedicated to creating intelligent, interpretable, and scalable ML solutions.
  
 ---
+
+## 📫 How to reach me...
+- **Email:** [email](mailto:shreyashbhamarenc@gmail.com)
+- **LinkedIn:** [linkedin.com](https://linkedin.com/in/shreyash-bhamare/)
+---
  
 ## 🔭 I'm currently working on...
 **Legal RAG System with Hallucination Detection** - My M.Tech thesis project (FAL-RAG) where I'm engineering an end-to-end Legal RAG pipeline with Knowledge Graphs and span-level hallucination detection using InLegalBERT. The goal is to make legal AI systems more trustworthy and grounded.
@@ -42,11 +47,6 @@ Also building **production-grade AI systems** for Media and Advertising intellig
 - **Python Development** - PyTorch, Pandas, NumPy, and building ML pipelines
 - **Azure Cloud AI Services** - Azure OpenAI, Video Indexer, and cloud ML workflows
 - **Model Interpretability** - SHAP, attention mechanisms, and explainable AI
----
- 
-## 📫 How to reach me...
-- **Email:** [email](mailto:shreyashbhamarenc@gmail.com)
-- **LinkedIn:** [linkedin.com](https://linkedin.com/in/shreyash-bhamare/)
 ---
  
 ## 😄 Pronouns...
